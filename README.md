@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Francis Afedzie Kwofie
-- 👀 I’m interested in big data, artificial intelligence, mobile app development.
-- 🌱 I’m currently learning image processing
+- 👀 I’m interested in Deep learning, Big data and mobile app development.
+- 🌱 I’m currently learning automatic speech recognition (ASR).
 - 💞️ I’m looking to collaborate on projects related to the above mentioned fields.
 - 📫 How to reach me - fakwofie2@gmail.com
 
